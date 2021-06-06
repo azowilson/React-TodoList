@@ -1,0 +1,35 @@
+#todo-form{
+    width: 300px;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.btn{
+    
+    
+    text-align: center;
+    color: white;
+    margin-left: 5px;
+    font-size: 1em;
+    height: 26px;
+    width: 4em;
+    background-color: royalblue;
+    border: none;
+    border-radius: 2px;
+    text-transform: uppercase;
+    order: 2;
+}
+
+input{
+    
+    height: 1.5em;
+    padding-left: 5px;
+    
+    order: 1;
+}
+#select-list{
+    order: 3;
+}
+TodoList{
+
+}
